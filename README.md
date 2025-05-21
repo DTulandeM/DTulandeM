@@ -18,7 +18,7 @@
 </h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I am a <strong> Web Developer & Electrical Engineer</strong> recently, I’ve transitioned into the tech world, building full stack web applications with modern technologies, you'll find more about me, my skills, and the projects I'm working on.
+  Welcome to my GitHub profile! I am a <strong> Web Developer & Electrical Engineer</strong> that recently, I’ve transitioned into the tech world, building full stack web applications with modern technologies, you'll find more about me, my skills, and the projects I'm working on.
 </p>
 
 ## About Me
@@ -42,13 +42,26 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
+## 📊 Recent Projects
 
+1. **Frikinventory Backend:**
+ - **Tools Used:** Node.js, Express.js, MongoDB, Mongoose, PM2, NGINX, Google Cloud
+- **Summary:** Built and deployed a backend server to manage users and products for an inventory system. Configured with PM2 and NGINX for process and traffic management in a cloud environment.
+
+2. **Frikinventory Frontend:**
+- **Tools Used:** React, HTML, CSS, JavaScript
+- **Summary:** Developed the client-side of an inventory system with features like user authentication, product CRUD operations, and profile editing. Ensured responsiveness and clean UI.
+
+3. **Full Stack App with JWT Authentication:**
+- **Tools Used:** React, Node.js, Express.js, MongoDB, Mongoose, JavaScript
+- **Summary:** Created a full stack web application with secure JWT-based login and CRUD functionality for users and cards. Integrated both frontend and backend for complete user flow.
 
 ## 📫 How to reach me
 
 📍 Cali, Colombia  
 📧 dtulande@gmail.com  
 📱 +57 315 8949038  
-🔗 [LinkedIn](https://www.linkedin.com/in/davinson-tulande-m/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/davinsontulande-webdeveloper/)   
+💼 [¡Coming Soon!](#)
 
 -->
